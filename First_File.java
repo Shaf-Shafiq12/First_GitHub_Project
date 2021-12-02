@@ -1,7 +1,11 @@
 
 public class First_File {
 	public static void main (String [] args) {
-		String name = "Shaf Shafiq";
+		<<<<<<< Shaf_Shafiq_i201864
+		String name = "Shaf Shafiq from branch Shaf_Shafiq_i201864";
+		=======
+		String name = "Shaf Shafiq from branch Shaf_Shafiq_i201864_2";
+		>>>>>>> main
 		String rollno = "20i-1864";
 		
 		System.out.println("Name: " + name);
