@@ -1,8 +1,7 @@
 
 public class First_File {
 	public static void main (String [] args) {
-		String name = "Shaf";
-		asadada;
+		String name12 = "Shaf212";
 		String name = "Shaf Shafiq";
 		String rollno = "20i-1864";
 		
